@@ -1,5 +1,13 @@
 body{
     font-family: "Arial";
+    background: black;
+}
+
+body h1{
+    font-family: "Arial";
+    text-decoration: underline;
+    color:blue;
+    text-align: center;
 }
 
 .clearfix{
